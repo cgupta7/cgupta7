@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Chirag Gupta @iXpert98
-- 👀 I’m interested in Backend Development in Python
-- 🌱 I’m currently learning more tools and adding more tech stacks to my portfolio
-- 💞️ I’m looking to collaborate on Full Stack projects using Django/Flask
-- 📫 You can ping me @chiraggupta148179@hotmail.com
+- 👋 Hi, I’m Chirag Gupta @cgupta7
+
+Welcome to my coding playground! 🚀 I'm a passionate software developer with a love for Python 🐍, JavaScript 💻, React ⚛️, Node.js 🌐, Express 🚀, and PostgreSQL 🐘. I thrive on crafting elegant and efficient solutions to real-world problems, and my code is my canvas where I paint my creativity and innovation.
+
+With a deep understanding of backend and frontend technologies, I'm constantly exploring new possibilities and pushing the boundaries of what's possible in the world of software development. My code is not just lines of text, but a symphony of logic, elegance, and functionality.
+
+When I'm not typing away at my keyboard, you can find me tinkering with side projects, contributing to open-source, or exploring the latest tech trends. I'm always hungry to learn and grow, and I believe that curiosity is the fuel that keeps me going on this exciting coding journey.
+
+So, join me in this adventure as we write the future of technology together! Let's connect, collaborate, and create software that makes a difference. 🚀✨"
 
 <!---
-iXpert98/iXpert98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cgupta7/cgupta7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
