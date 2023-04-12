@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chirag Gupta @cgupta7
+👋 Hi, I’m Chirag Gupta @cgupta7
 
 Welcome to my coding playground! 🚀 I'm a passionate software developer with a love for Python 🐍, JavaScript 💻, React ⚛️, Node.js 🌐, Express 🚀, and PostgreSQL 🐘. I thrive on crafting elegant and efficient solutions to real-world problems, and my code is my canvas where I paint my creativity and innovation.
 
